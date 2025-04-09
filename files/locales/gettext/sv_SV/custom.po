@@ -1,0 +1,37 @@
+#. Google Play Store
+msgid "Brief Description"
+msgstr "Patiensspel för 2 till 4 personer i stil med «Spite & Malice»"
+
+msgid "Detailed Description"
+msgstr "Spelet är också känt under namnet «Spite & Malice», ett derivat av «Russian Bank» (även känt som «Crapette» eller «Tunj»). Den kommersiella versionen av detta kortspel marknadsförs under namnet «Skip-Bo»."
+
+msgid "Object of the game"
+msgstr "Syftet med detta kortspel är att vara den första spelaren som kastar alla spelkort från sin kortlek i ordningen 1 till 12 och därmed vinner spelet."
+
+#. Manual
+#. OBJECT OF THE GAME
+msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
+msgstr "1 (ess) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (knekt) - 12 (dam)"
+
+#. EQUIPMENT
+msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
+msgstr "Det spelas med 144 spelkort (tolv uppsättningar med siffrorna 1 till 12) plus 18 jokerkort, alltså med totalt 162 spelkort."
+
+#. LAYOUT
+msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
+msgstr "För att börja spelet blandas kortleken och 30 kort delas ut med framsidan nedåt till varje GRUNDHÖG, och ytterligare 5 kort delas ut till varje spelare som deras hand. Resten av korten placeras med framsidan nedåt mellan spelarna för att bilda DRAGHÖGEN. Det översta kortet i varje GRUNDHÖG vänds upp och placeras ovanpå. Den spelare som har det högsta kortet kommer att spela först. I detta skede är BYGGHÖGARNA i mitten och SLÄGHÖGARNA alla tomma (markerade med streckade linjer), de utvecklas under spelets gång."
+
+#. TERMINOLOGY
+msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Under spelet kan upp till fyra BYGGHÖGAR bildas. En BYGGHÖG kan endast startas med en 1:a (ess) eller en joker. Varje hög bildas sedan i ordningen 1 till 12 (ess - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - knekt - dam). Jokrar kan användas för att starta en BYGGHÖG lika väl som alla andra kort. När en BYGGHÖG är komplett med alla tolv kort tas den bort från spelplanen och en ny BYGGHÖG startas i deras ställe."
+
+#. THE PLAY
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Den spelare vars översta spelkort i hans GRUNDHÖG har det högsta värdet börjar spelet. Därefter spelas spelet växelvis. Om spelaren har ett kort med siffran 1 (ess) eller ett Joker-kort på sin hand, eller om ett av dessa kort är det översta kortet i hans GRUNDHÖG, kan han börja bygga en BYGGHÖG i mitten av spelområdet."
+
+msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
+msgstr "Spelare B startar en ny BYGGHÖG genom att placera ett spelkort med siffran 1 (ess) från sin GRUNDHÖG på en tom BYGGHÖG i mitten."
+
+#. MORE THAN TWO PLAYERS
+msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
+msgstr "SKIP-2-GO kan också spelas av upp till fyra spelare. Spelriktningen är medurs. Beroende på antalet spelare och antalet kort som varje spelare får i sin GRUNDHÖG används ytterligare kortlekar."

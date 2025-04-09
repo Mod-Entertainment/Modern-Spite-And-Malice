@@ -1,0 +1,37 @@
+#. Google Play Store
+msgid "Brief Description"
+msgstr "Gra karciana dla 2 do 4 graczy w stylu «Spite & Malice»"
+
+msgid "Detailed Description"
+msgstr "Gra jest również znana pod nazwą «Spite & Malice», pochodną «Russian Bank» (znanej również jako «Crapette» lub «Tunj»). Komercyjna wersja tej gry karcianej jest sprzedawana pod nazwą «Skip-Bo»."
+
+msgid "Object of the game"
+msgstr "Celem tej gry karcianej jest bycie pierwszym graczem, który odrzuci wszystkie karty ze swojej talii w kolejności od 1 do 12 i tym samym wygra grę."
+
+#. Manual
+#. OBJECT OF THE GAME
+msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
+msgstr "1 (as) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (walet) - 12 (dama)"
+
+#. EQUIPMENT
+msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
+msgstr "Zestaw 144 kart ponumerowanych od 1 do 12 plus 18 kart jokerów, co daje łącznie 162 karty."
+
+#. LAYOUT
+msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
+msgstr "Aby rozpocząć grę, pakiet kart jest tasowany i 30 kart jest rozdawanych zakrytych na każdy STOS ZAPASÓW, a kolejne 5 kart jest rozdawane każdemu graczowi jako jego ręka. Pozostałe karty są umieszczane zakryte między graczami, tworząc SKLEP. Górna karta z każdego STOSU ZAPASÓW jest odwracana awersem do góry i umieszczana na wierzchu. Gracz, który ma wyższą kartę, zagra jako pierwszy. Na tym etapie WIERSZE w centrum i STOSY DO ROZŁADOWANIA są puste (oznaczone przerywanymi liniami), są one rozwijane podczas gry"
+
+#. TERMINOLOGY
+msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Podczas gry można rozpocząć maksymalnie cztery WIERSZE. Tylko karta z numerem 1 (as) lub joker może rozpocząć WIERSZ. Każdy stos jest następnie budowany w kolejności od 1 do 12 (as - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - walet - dama). Dzikie karty mogą rozpoczynać WIERSZ i mogą być również zagrywane jako karty dowolnej innej rangi. Po skompletowaniu stosu 12 kart jest on usuwany, a w jego miejsce budowany jest nowy stos."
+
+#. THE PLAY
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Gracz, którego najwyższa karta z STOSU ZAPASÓW ma wyższą rangę, rozpoczyna grę. Następnie gra toczy się naprzemiennie. Jeśli gracz ma na ręce kartę z numerem 1 (as) lub jokera, lub jeśli jedna z tych kart znajduje się na jego STOSIE ZAPASÓW jako najwyższa karta, może rozpocząć układanie WIERSZA na środku."
+
+msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
+msgstr "Gracz B rozpoczyna nowy WIERSZ, odrzucając kartę z numerem 1 (as) ze swojego STOSU ZAPASÓW na pusty WIERSZ"
+
+#. MORE THAN TWO PLAYERS
+msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
+msgstr "SKIP-2-GO można łatwo dostosować do dowolnej liczby graczy. Tury przechodzą zgodnie z ruchem wskazówek zegara. W zależności od liczby graczy i liczby kart rozdanych na STOSY ZAPASÓW może być konieczne dodanie większej liczby talii - na przykład niektórzy grają z jedną talią na gracza."

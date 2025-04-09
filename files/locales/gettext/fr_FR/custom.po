@@ -1,0 +1,37 @@
+#. Google Play Store
+msgid "Brief Description"
+msgstr "Un jeu de solitaire pour 2 à 4 joueurs dans le style de «Spite & Malice»"
+
+msgid "Detailed Description"
+msgstr "Ce jeu de cartes traditionnel est également connu sous le nom de «Spite & Malice», un dérivé de «Crapette» (également connu sous le nom de «Russian Bank» ou «Tunj»). La version commercial de ce jeu de cartes est commercialisée sous le nom de «Skip-Bo»."
+
+msgid "Object of the game"
+msgstr "Le but de ce jeu de cartes est d'être le premier joueur à se débarrasser de toutes les cartes à jouer de son jeu dans l'ordre de 1 à 12 et de gagner ainsi la partie."
+
+#. Manual
+#. OBJECT OF THE GAME
+msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
+msgstr "1 (as) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (valet) - 12 (dame)"
+
+#. EQUIPMENT
+msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
+msgstr "Un jeu de cartes comprenant 144 cartes numérotées de 1 à 12 plus 18 cartes joker, soit un total de 162."
+
+#. LAYOUT
+msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
+msgstr "Pour commencer le jeu, le paquet de cartes est mélangé et 30 cartes sont distribuées face cachée dans chaque PILE D’ACCUMULATION, et 5 cartes supplémentaires sont distribuées à chaque joueur pour constituer sa main.	Le reste des cartes est placé face cachée entre les joueurs pour former le TALON. La carte supérieure de chaque PILE D’ACCUMULATION est retournée et placée sur le dessus. Le joueur qui a la carte la plus élevée jouera en premier. À ce stade, les PILES DE SÉQUENCE le centre et les ÉCARTS sont toutes vides (indiquées par des lignes pointillées), elles se développent au fil du jeu"
+
+#. TERMINOLOGY
+msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Pendant le jeu, il est possible de former jusqu'à quatre PILES DE SÉQUENCE. Une PILE DE SÉQUENCE ne peut commencer qu'avec un 1 (as) ou un joker. Chaque pile est ensuite formée dans l'ordre de 1 à 12 (as - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - valet - dame). Les jokers peuvent être utilisés aussi bien pour commencer une PILE DE SÉQUENCE que comme n'importe quelle autre carte. Lorsqu'une pile est complète avec les douze cartes, elle est retirée de la surface de jeu et une nouvelle pile est commencée à sa place."
+
+#. THE PLAY
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Le joueur dont la carte supérieure de la PILE D’ACCUMULATION a le rang le plus élevé commence la partie. Ensuite, la partie se joue en alternance. Si le joueur a en main une carte portant le numéro 1 (as) ou un joker, ou si l'une de ces cartes se trouve sur son PILE D’ACCUMULATION en tant que carte supérieure, il peut commencer à établir un PILE DE SÉQUENCE au centre"
+
+msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
+msgstr "Le joueur B commence une nouvelle PILE DE SÉQUENCE, en défaussant une carte portant le numéro 1 (as) de sa PILE D’ACCUMULATION sur une PILE DE SÉQUENCE vide."
+
+#. MORE THAN TWO PLAYERS
+msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
+msgstr "SKIP-2-GO peut également être joué par jusqu'à quatre joueurs. Le sens du jeu est dans le sens des aiguilles d'une montre. En fonction du nombre de joueurs et du nombre de cartes que chaque joueur reçoit dans sa PILE D’ACCUMULATION, plusieurs jeux de cartes sont utilisés."

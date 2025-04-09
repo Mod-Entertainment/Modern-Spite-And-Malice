@@ -1,0 +1,37 @@
+#. Google Play Store
+msgid "Brief Description"
+msgstr "Juego de solitario al estilo de «Rencor y Malicia» para 2 a 4 jugadores"
+
+msgid "Detailed Description"
+msgstr "Skip-2-Go es una versión del juego de naipes «Spite & Malice», también llamado «Rencor y Malicia» en español, un derivado de «Russian Bank» (también conocido como «Crapette» o «Tunj»). La versión comercial de este juego de cartas se comercializa con el nombre «Skip-Bo»."
+
+msgid "Object of the game"
+msgstr "El objetivo de este juego de naipes es ser el primer jugador en descartar todos los naipes de su pila en el orden del 1 al 12 y así ganar el juego."
+
+#. Manual
+#. OBJECT OF THE GAME
+msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
+msgstr "1 (as) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (sota) - 12 (dama)"
+
+#. EQUIPMENT
+msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
+msgstr "Se juega con 144 naipes (doce juegos con los números del 1 al 12) y 18 comodines, por lo que con un total de 162 naipes."
+
+#. LAYOUT
+msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
+msgstr "En el centro del área de juego, al lado de la PILA DE ROBAR, los jugadores realizan hasta cuatro PILAS EN CRECIMIENTO durante el juego. Además de estas pilas, cada jugador tiene su PILA DE INICIO frente a él/ella, así como hasta cinco NAIPES DE MANO y hasta cuatro PILAS DE DESCARTE. Las PILAS EN CRECIMIENTO en el centro y las PILAS DE DESCARTE de los jugadores A y B se forman durante el juego (indicado por líneas discontinuas). No hay naipes en esta área al comienzo del juego"
+
+#. TERMINOLOGY
+msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Se pueden formar hasta cuatro PILAS EN CRECIMIENTO durante el juego. Una PILA EN CRECIMIENTO solo se puede comenzar con un naipe con el número 1 (as) o con un comodín. Cada pila se forma en el orden que se muestra en la imagen 1. Los comodines se pueden usar para iniciar una PILA EN CRECIMIENTO o como cualquier otro naipe. Cuando se completa una PILA EN CRECIMIENTO con los doce naipes, se elimina del área de juego y comienza una nueva PILA EN CRECIMIENTO en su lugar."
+
+#. THE PLAY
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "El jugador cuyo naipe superior de la PILA DE INICIO tiene el valor más alto comienza el juego. Luego se juega alternativamente. Si el jugador tiene un naipes con el número 1 (as) o un comodín en la mano, o si un de estos naipes es el naipe superior en su PILA DE INICIO, puede comenzar a construir una PILA EN CRECIMIENTO en el centro del área de juego"
+
+msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
+msgstr "El jugador B comienza una nueva PILA EN CRECIMIENTO colocando un naipe con el número 1 (as) de su PILA DE INICIO en una PILA EN CRECIMIENTO vacío en el centro."
+
+#. MORE THAN TWO PLAYERS
+msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
+msgstr "SKIP-2-GO también pueden ser jugados por hasta cuatro jugadores. La dirección de juego es en el sentido de las agujas del reloj. Dependiendo del número de jugadores y el número de naipes que cada jugador reciba en su PILA DE INICIO, se utilizarán más juegos de naipes."

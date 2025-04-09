@@ -1,0 +1,64 @@
+{
+    // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+    // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+    // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "swf",
+            "request": "launch",
+            "name": "FE kompilieren",
+            "profile": "mobileDevice",
+            "extdir": "${workspaceFolder}/../external-libs", // Pfad zu externen Bibliotheken für Adobe Debug Launcher (ADL)
+            "screensize": "1000x600:1000x600",
+            "screenDPI": 160,
+            "versionPlatform": "AND",
+            "preLaunchTask": "ActionScript: compile debug - Modern-SAM/asconfig.json",
+            "program": "bin/modern-sam-app.xml",
+            "runtimeExecutable": "${workspaceFolder}/../../Flex-SDKs/build-version/bin/adl64.exe"
+        },
+        {
+            "type": "swf",
+            "request": "launch",
+            "name": "FE ausführen",
+            "profile": "mobileDevice",
+            "extdir": "${workspaceFolder}/../external-libs", // Pfad zu externen Bibliotheken für Adobe Debug Launcher (ADL)
+            "screensize": "540x1080:540x1080",
+            "screenDPI": 240,
+            "versionPlatform": "AND",
+            "program": "bin/modern-sam-app.xml",
+            "runtimeExecutable": "${workspaceFolder}/../../Flex-SDKs/build-version/bin/adl64.exe"
+        },
+        {
+            "type": "swf",
+            "request": "launch",
+            "name": "PE kompilieren",
+            "profile": "mobileDevice",
+            "extdir": "${workspaceFolder}/../external-libs", // Pfad zu externen Bibliotheken für Adobe Debug Launcher (ADL)
+            "screensize": "540x1800:540x1080",
+            "screenDPI": 230,
+            "versionPlatform": "AND",
+            "preLaunchTask": "ActionScript: compile debug - Modern-SAM/asconfig-pe.json",
+            "program": "bin/modern-sam-pe-app.xml",
+            "runtimeExecutable": "${workspaceFolder}/../../Flex-SDKs/build-version/bin/adl64.exe"
+        },
+        {
+            "type": "swf",
+            "request": "launch",
+            "name": "PE ausführen",
+            "profile": "mobileDevice",
+            "extdir": "${workspaceFolder}/../external-libs", // Pfad zu externen Bibliotheken für Adobe Debug Launcher (ADL)
+            "screensize": "1080x810:1080x810",
+            "screenDPI": 240,
+            "versionPlatform": "AND",
+            "program": "bin/modern-sam-pe-app.xml",
+            "runtimeExecutable": "${workspaceFolder}/../../Flex-SDKs/build-version/bin/adl64.exe"
+        },
+        {
+        	"type": "swf",
+        	"request": "attach",
+        	"name": "Über USB verbinden (Android)",
+            "connect": true
+        }
+    ]
+}

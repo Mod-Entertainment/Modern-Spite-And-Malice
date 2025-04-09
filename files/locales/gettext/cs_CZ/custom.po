@@ -1,0 +1,37 @@
+#. Google Play Store
+msgid "Brief Description"
+msgstr "Soutěžní solitér pro dva až čtyři hráče ve stylu hry «Spite & Malice»."
+
+msgid "Detailed Description"
+msgstr "Hra je známá také pod názvem «Spite & Malice», což je odvozenina od «Russian Bank» (známá také jako «Crapette» nebo «Tunj»). Komerční verze této karetní hry se prodává pod názvem «Skip-Bo»."
+
+msgid "Object of the game"
+msgstr "Cílem této karetní hry je jako první odhodit všechny karty z hromádky v pořadí od 1 do 12 a vyhrát hru."
+
+#. Manual
+#. OBJECT OF THE GAME
+msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
+msgstr "1 (eso) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (kluk) - 12 (královna)"
+
+#. EQUIPMENT
+msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
+msgstr "Balíček karet se 144 kartami s čísly 1 až 12 a 18 žolíkovými kartami, celkem 162."
+
+#. LAYOUT
+msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
+msgstr "Na začátku hry se balíček herních karet zamíchá a na každou HRÁČSKÉ HROMÁDKU se vyloží 30 karet lícem dolů a každému hráči se rozdá dalších 5 karet do ruky. Zbytek karet se položí lícem dolů mezi hráče a vytvoří se BALÍČEK KARET. Vrchní karta z každé HRÁČSKÉ HROMÁDKY se otočí lícem nahoru a položí se na vrchol. Hráč, který má na ruce vyšší kartu, hraje jako první. V této fázi jsou všechny HROMADY BUDOV uprostřed a POMOCNÉ HROMÁDKY prázdné (označené tečkovanými čarami) a vznikají během hry"
+
+#. TERMINOLOGY
+msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Během hry lze začít stavět čtyři HROMADY BUDOV. HROMÁDKU BUDOV lze založit pouze kartou s číslem 1 (eso) nebo žolíkem. Každá hromádka se pak staví v seřazeném pořadí od 1 do 12 (eso - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - kluk - královna). HROMÁDKU BUDOV mohou založit i divoké karty, které lze zahrát i jako libovolnou jinou řadu. Jakmile je hromádka 12 karet dokončena, je odstraněna a na jejím místě je založena nová hromádka."
+
+#. THE PLAY
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Hru začíná hráč, jehož nejvyšší hrací karta na HRÁČSKÉ HROMÁDCE má vyšší hodnotu. Poté se hraje střídavě. Pokud má hráč v ruce kartu s číslem 1 (eso) nebo žolíka, nebo pokud se jedna z těchto karet nachází na jeho HRÁČSKÉ HROMÁDCE jako nejvyšší karta, může začít zakládat HROMÁDKU BUDOV uprostřed"
+
+msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
+msgstr "Hráč B založí novou HROMÁDKU BUDOV tak, že odhodí kartu s číslem 1 (eso) ze své POMOCNÉ HROMÁDKY na prázdnou HROMÁDKU BUDOV"
+
+#. MORE THAN TWO PLAYERS
+msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
+msgstr "SKIP-2-GO lze snadno přizpůsobit pro libovolný počet hráčů. Otočením se hraje ve směru hodinových ručiček. V závislosti na počtu hráčů a na tom, kolik karet rozdáte na HRÁČSKÉ HROMÁDKY, může být nutné přidat více balíčků - někteří například hrají s jedním balíčkem na hráče."

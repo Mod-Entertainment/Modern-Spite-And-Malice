@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:ViewNavigatorApplication xmlns:fx="http://ns.adobe.com/mxml/2009" 
+							xmlns:s="library://ns.adobe.com/flex/spark"
+							persistNavigatorState="false"
+							backgroundColor="0x629cdb"
+							splashScreenImage="me.elementary.ui.views.DarkModeSplashScreen"
+							splashScreenScaleMode="letterbox"
+							preinitialize="MainInitialization.preinitialize(event)"
+							initialize="MainInitialization.initialize(event)">
+
+	<fx:Style source="../../../Mod-Entertainment/src/assets/css/Android5.css"/>
+	<fx:Style source="../../../Mod-Entertainment/src/assets/css/Common.css"/>
+	<fx:Style source="../../../Mod-Entertainment/src/assets/css/Fonts.css"/>
+	<fx:Style source="../assets/css/ModernSAM.css"/>
+
+	<fx:Declarations>
+		<!-- Platzieren Sie nichtvisuelle Elemente (z. B. Dienste, Wertobjekte) hier -->
+	</fx:Declarations>
+	
+	<fx:Script>
+		<![CDATA[ 
+			import msam.MainInitialization;
+		]]>
+	</fx:Script>
+</s:ViewNavigatorApplication>

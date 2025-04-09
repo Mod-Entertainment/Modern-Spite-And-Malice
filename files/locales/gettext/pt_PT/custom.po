@@ -1,0 +1,37 @@
+#. Google Play Store
+msgid "Brief Description"
+msgstr "Jogo solitário em que 2 a 4 jogadores competem, ao estilo de «Crapô»"
+
+msgid "Detailed Description"
+msgstr "O jogo é também conhecido como «Spite & Malice», um derivado de «Crapô» (ou «Carapô» ou «Crapot»). A versão comercial deste jogo de cartas é comercializada sob o nome «Skip-Bo»."
+
+msgid "Object of the game"
+msgstr "O objectivo deste jogo de cartas é ser o primeiro jogador a descartar todas as cartas de jogo da sua pilha na ordem de 1 a 12 e assim ganhar o jogo."
+
+#. Manual
+#. OBJECT OF THE GAME
+msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
+msgstr "1 (ás) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (valete) - 12 (dama)"
+
+#. EQUIPMENT
+msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
+msgstr "Um pacote de cartas com 144 cartas numeradas de 1 a 12 mais 18 cartas de jóquer para um total de 162."
+
+#. LAYOUT
+msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
+msgstr "Para iniciar o jogo, o baralho de cartas é baralhado e são dadas 30 cartas viradas para baixo para cada PILHA DE RESERVA, e mais 5 cartas são dadas a cada jogador como mão. As restantes cartas são colocadas com a face para baixo entre os jogadores para formar o MONTE. A carta de cima de cada PILHA DE RESERVA é virada para cima e colocada em cima. O jogador que tiver a carta mais alta mostrada, jogará primeiro. Nesta fase, as PILHAS DE BASE no centro e as PILHAS DE DESCARTE estão todas vazias (indicadas por linhas pontilhadas), são desenvolvidas através do jogo"
+
+#. TERMINOLOGY
+msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Durante o jogo, as quatro PILHAS DE BASE podem ser iniciadas. Apenas uma carta com o número 1 (ás) ou um jóquer pode iniciar uma PILHA DE BASE. Cada pilha é então construída em ordem ordenada, de 1 a 12 (ás - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - valete - dama). As cartas selvagens podem iniciar uma PILHA DE BASE, e também podem ser jogadas como qualquer outra classificação. Uma vez completada uma pilha de 12 cartas, esta é removida, e uma nova pilha é iniciada no seu lugar."
+
+#. THE PLAY
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "O jogador cuja carta mais alta da PILHA DE RESERVA tem a classificação mais alta começa o jogo. Depois disso, o jogo é jogado alternadamente. Se o jogador tiver a carta com o número 1 (ás) ou um jóquer na mão, ou se uma destas cartas estiver na PILHA DE RESERVA como carta mais alta, pode começar a estabelecer uma PILHA DE BASE no centro"
+
+msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
+msgstr "O jogador B inicia uma nova PILHA DE BASE, descartando uma carta com o número 1 (ás) da sua PILHA DE RESERVA para uma PILHA DE BASE vazia"+
+
+#. MORE THAN TWO PLAYERS
+msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
+msgstr "SKIP-2-GO pode ser facilmente adaptado para qualquer número de jogadores. Girar para jogar passa no sentido dos ponteiros do relógio. Dependendo do número de jogadores e do número de cartas que se dá às PILHAS DE RESERVA, pode ser necessário adicionar mais baralhos de cartas - por exemplo, alguns jogam com um baralho de cartas por jogador."

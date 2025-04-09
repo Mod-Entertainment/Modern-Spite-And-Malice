@@ -1,0 +1,115 @@
+{
+	"type": "app",
+	"config": "airmobile",
+	"mainClass": "msam.Main",
+	"application": "modern-sam-pe-app.xml",
+	"compilerOptions": {
+		"swf-version": 51,
+		"output": "bin/modern-sam-pe.swf",
+		"source-path": [
+			"src",
+			"../Mod-Entertainment/src",
+			"../Mod-SkipBo/src"
+		],
+		"library-path": [
+			"../external-libs/Android5.swc",
+			"../external-libs/ANESounds.swc"
+		],
+		"define": [
+			{
+				"name": "CONFIG::debug",
+				"value": true
+			},
+			{
+				"name": "CONFIG::freeEdition",
+				"value": false
+			},
+			{
+				"name": "CONFIG::premiumEdition",
+				"value": true
+			}
+		]
+	},
+	"airOptions": {
+		"air": {
+			"target": "bundle",
+			"output": "bin/modern-sam-pe.air",
+			"signingOptions": {
+				"storetype": "pkcs12",
+				"keystore": "${workspaceFolder}/../../../Zertifikate/air_distribution.p12"
+			}
+		},
+		"android": {
+			"connect": false,
+			"listen": false,
+			"resdir": "src/res/pe",
+			"target": "apk",
+			"arch": "armv8",
+			"output": "bin/modern-sam-pe.apk",
+			//"target": "aab",
+			//"output": "bin/modern-sam-pe.aab",
+			"platformsdk": "C:/Users/mod19/AppData/Local/Android/Sdk",
+			"signingOptions": {
+				"storetype": "jks",
+				"keystore": "${workspaceFolder}/../../../Zertifikate/mod-entertainment.jks"
+			}
+		},
+		"ios": {
+			"target": "ipa-debug",
+			"output": "bin/modern-sam-pe.ipa",
+			"signingOptions": {
+				"storetype": "pkcs12",
+				"keystore": "${workspaceFolder}/../../../Zertifikate/distribution.p12",
+				"provisioning-profile": "example.mobileprovision"
+			}
+		},
+		"extdir": [
+				// Pfad zu externen Bibliotheken für Adobe Developer Tool (ADT)
+				"../external-libs"
+		],
+		"files": [
+			{
+				// Gemeinsame Lokalisierungsdateien
+				"file": "../Mod-Entertainment/files/locales/gettext",
+				"path": "assets/settings/locales"
+			},
+			{
+				// Spezifische Lokalisierungsdateien
+				"file": "files/locales/gettext",
+				"path": "assets/settings/locales"
+			},
+			{
+				// Icons
+				"file": "files/img/icons/pe",
+				"path": "assets/img/icons/pe"
+			},
+			{
+				// Kartenrückseiten (0 - 13)
+				"file": "files/img/back",
+				"path": "assets/img/back"
+			},
+			{
+				// Kartenvorderseiten (0, 1, 2, 3)
+				"file": "files/img/front/0",
+				"path": "assets/img/front/0"
+			},
+			{
+				"file": "files/img/front/1",
+				"path": "assets/img/front/1"
+			},
+			{
+				"file": "files/img/front/2",
+				"path": "assets/img/front/2"
+			},
+			{
+				"file": "files/img/front/3",
+				"path": "assets/img/front/3"
+			},
+			{
+				// Sound-Effekte
+				"file": "files/snd",
+				"path": "assets/snd"
+			}
+		]
+	}
+}

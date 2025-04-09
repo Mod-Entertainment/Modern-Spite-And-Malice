@@ -1,0 +1,49 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "actionscript",
+			"debug": true,
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "ActionScript: compile debug - Modern-SAM/asconfig.json"
+		},
+		{
+			"type": "actionscript",
+			"debug": false,
+			"air": "android",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "Adobe AIR: package Android release - Modern-SAM/asconfig.json"
+		},
+		{
+			"type": "actionscript",
+			"debug": true,
+			"air": "android",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "Adobe AIR: package Android debug - Modern-SAM/asconfig.json"
+		},
+		{
+			"type": "actionscript",
+			"debug": false,
+			"air": "android",
+			"asconfig": "asconfig-pe.json",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "Adobe AIR: package Android release - Modern-SAM/asconfig-pe.json"
+		},
+		{
+			"type": "actionscript",
+			"debug": true,
+			"air": "android",
+			"asconfig": "asconfig.json",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "Adobe AIR: package Android debug - Modern-SAM/asconfig.json"
+		}
+	]
+}

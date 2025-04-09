@@ -1,0 +1,62 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+
+s|Button.plainDark {
+	color: #ffffff;
+	chromeColor: #7fbdff;
+}
+
+s|Button.plainLight {
+	color: #629cdb;
+}
+
+s|Button.plainWarn {
+	color: #910000;
+}
+
+s|Button.flat {
+	color: #7fbdff;
+}
+
+/* Horizontale Scroll-Leiste */
+s|HScrollBar {
+	thumbColor: #3d76af;
+}
+
+s|HSlider {
+	symbolColor: #629cdb; /* color of the center circle */
+	selectionColor: #3d76af; /* color of the larger semi-transparent circle when selected */
+	trackselectionColor: #b2d8ff; /* color track when dragged */
+}
+
+/* Radio-Buttons */
+s|RadioButton {
+	color: #000000;
+	selectColor: #629cdb; 
+}
+
+/* TextArea (mehrzeiliges Textfeld) */
+s|TextArea {
+	focusColor: #7fbdff;
+}
+
+/* TextInput (einzeiliges Textfeld) */
+s|TextInput {
+	focusColor: #7fbdff;
+}
+
+/* Prompt im Texteingabefeld */
+s|TextInput:disabledWithPrompt {
+	color: #3d76af;
+}
+
+/* Toggle-Switch (Binärer Schalter) */
+s|ToggleSwitch {
+	thumbColorSelected: #629cdb; /* color of the thumb in the right selected position */
+	trackColorSelected: #b2d8ff;
+}
+
+/* Vertikale Scroll-Leiste */
+s|VScrollBar {
+	thumbColor: #3d76af;
+}

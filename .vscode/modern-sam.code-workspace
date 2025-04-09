@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "Modern-SAM",
+			"path": ".."
+		},
+		{
+			"name": "Mod-Entertainment",
+			"path": "../../Mod-Entertainment"
+		},
+		{
+			"name": "Mod-SkipBo",
+			"path": "../../Mod-SkipBo"
+		},
+		{
+			"name": "Mod-Advertising",
+			"path": "../../Mod-Advertising"
+		}
+	],
+	"settings": {
+		"as3mxml.sdk.framework": "c:\\Development\\Flex-SDKs\\build-version"
+	}
+}

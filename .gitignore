@@ -1,0 +1,9 @@
+bin/*
+bin/skip-2-go-app.xml
+bin/skip-2-go-pe-app.xml
+bin/skip-2-go.apk
+bin/skip-2-go-pe.apk
+bin/skip-2-go.aab
+bin/skip-2-go-pe.aab
+bin/skip-2-go-pe.swf
+bin/skip-2-go.swf
