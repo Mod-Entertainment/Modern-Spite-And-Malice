@@ -228,7 +228,7 @@ package msam
 				}
 
 				// Werbung intialisieren
-				AdProvider.initialize(AppAppearance.onlineId, new <Class>[ModernSpiteAndMalicePE, SpiteAndMalice], testAdsEnabled);
+				AdProvider.initialize(AppAppearance.appId, new <Class>[ModernSpiteAndMalicePE, SpiteAndMalice], testAdsEnabled);
 
 				// App-Symbole für das Werbe-Banner in der Start-Ansicht initialisieren!
 				MoreFromAd.appIcons = new <AppIcon>[AppIcon.modernSpiteAndMalicePE,

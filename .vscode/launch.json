@@ -10,8 +10,8 @@
             "name": "FE kompilieren",
             "profile": "mobileDevice",
             "extdir": "${workspaceFolder}/../external-libs", // Pfad zu externen Bibliotheken für Adobe Debug Launcher (ADL)
-            "screensize": "1000x600:1000x600",
-            "screenDPI": 160,
+            "screensize": "540x1080:540x1080",
+            "screenDPI": 240,
             "versionPlatform": "AND",
             "preLaunchTask": "ActionScript: compile debug - Modern-SAM/asconfig.json",
             "program": "bin/modern-sam-app.xml",
@@ -23,7 +23,7 @@
             "name": "FE ausführen",
             "profile": "mobileDevice",
             "extdir": "${workspaceFolder}/../external-libs", // Pfad zu externen Bibliotheken für Adobe Debug Launcher (ADL)
-            "screensize": "540x1080:540x1080",
+            "screensize": "1200x800:1200x800",
             "screenDPI": 240,
             "versionPlatform": "AND",
             "program": "bin/modern-sam-app.xml",
@@ -36,7 +36,7 @@
             "profile": "mobileDevice",
             "extdir": "${workspaceFolder}/../external-libs", // Pfad zu externen Bibliotheken für Adobe Debug Launcher (ADL)
             "screensize": "540x1800:540x1080",
-            "screenDPI": 230,
+            "screenDPI": 240,
             "versionPlatform": "AND",
             "preLaunchTask": "ActionScript: compile debug - Modern-SAM/asconfig-pe.json",
             "program": "bin/modern-sam-pe-app.xml",
@@ -48,8 +48,8 @@
             "name": "PE ausführen",
             "profile": "mobileDevice",
             "extdir": "${workspaceFolder}/../external-libs", // Pfad zu externen Bibliotheken für Adobe Debug Launcher (ADL)
-            "screensize": "1080x810:1080x810",
-            "screenDPI": 240,
+            "screensize": "1080x720:1080x720",
+            "screenDPI": 160,
             "versionPlatform": "AND",
             "program": "bin/modern-sam-pe-app.xml",
             "runtimeExecutable": "${workspaceFolder}/../../Flex-SDKs/build-version/bin/adl64.exe"

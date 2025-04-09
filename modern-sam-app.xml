@@ -50,7 +50,7 @@
 				<uses-feature android:required="true"
 							  android:name="android.hardware.touchscreen.multitouch" />
 				<meta-data android:name="com.google.android.gms.ads.APPLICATION_ID"
-						   android:value="ca-app-pub-4189916080395205~8346913247" />
+						   android:value="ca-app-pub-4189916080395205~1765818285" />
 				<application android:enabled="true"
 							 android:hardwareAccelerated="true"
 							 android:usesCleartextTraffic="true"
