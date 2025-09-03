@@ -3,8 +3,8 @@
 	<id>com.mod.Modern-Spite-And-Malice-PE</id>
 	<filename>modern-sam-pe</filename>
 	<name>Modern Spite &amp; Malice (Premium)</name>
-	<versionNumber>1.4.20</versionNumber>
-	<versionLabel>1.4.20</versionLabel>
+	<versionNumber>1.4.30</versionNumber>
+	<versionLabel>1.4.30</versionLabel>
 	<supportedLanguages>cs en de es fr it nl pl pt sv tr</supportedLanguages>
 	<copyright>© 2019-2025 MOD Entertainment.</copyright>
 	<initialWindow>
@@ -38,7 +38,7 @@
 			<![CDATA[
 			<manifest android:installLocation="auto">
 				<uses-sdk android:minSdkVersion="21" />
-				<uses-sdk android:targetSdkVersion="34"/>
+				<uses-sdk android:targetSdkVersion="35"/>
 				<uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
 				<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 				<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -63,6 +63,9 @@
 			</manifest>]]>
 		</manifestAdditions>
 	</android>
+	<windows>
+		<UseWebView2>true</UseWebView2>
+	</windows>
 	<iPhone>
 		<InfoAdditions>
 			<![CDATA[
