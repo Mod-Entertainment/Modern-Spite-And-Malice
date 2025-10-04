@@ -1,38 +1,34 @@
 
 #. Google Play Store
 msgid "Brief Description"
-msgstr "«Spite & Malice» tarzında iki ila dört oyuncu için rekabetçi solitaire oyunu"
+msgstr "«Crapette» tarzında iki ila dört oyuncu için rekabetçi solitaire oyunu"
 
 msgid "Detailed Description"
-msgstr "Oyun aynı zamanda Rus Bankasının («Crapette» veya «Tunj» olarak da bilinir) bir türevi olan «Spite & Malice» olarak da bilinir. Bu kart oyununun ticari versiyonu «Skip-Bo» adı altında pazarlanmaktadır."
+msgstr "Bu oyun, kart oyunu «Crapette»nin (aynı zamanda «Tunj» olarak da bilinir) bir varyasyonu olan «Russian Bank» adıyla da bilinir. Bu kart oyununun ticari versiyonu «Skip-Bo» adı altında pazarlanmaktadır."
 
 msgid "Object of the game"
-msgstr "Bu kart oyununun amacı, destesindeki tüm oyun kartlarını 1'den 12'ye kadar sırayla atan ilk oyuncu olmak ve böylece oyunu kazanmaktır."
+msgstr "Bu oyunun amacı, ilk oyuncu olarak elindeki tüm kartları belirli bir sırayla masaya koyarak oyunu kazanmaktır."
 
 #. Manual
 #. OBJECT OF THE GAME
-msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
-msgstr "1 (as) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (vale) - 12 (kiz)"
+msgid "Order of playing cards"
+msgstr "As (1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - vale (11) - kiz (12)"
 
 #. EQUIPMENT
-msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
-msgstr "1'den 12'ye kadar numaralandırılmış 144 kart ve 18 joker kartı ile toplam 162 karttan oluşan bir kart paketi."
+msgid "Number of card packs"
+msgstr "Oyun, oyun başlamadan önce karıştırılan 54 kartlık birkaç deste ile oynanır. İki joker ve joker olarak sayılan dört papaz, istenildiği gibi kullanılabilir."
 
 #. LAYOUT
-msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
-msgstr "Oyuna başlamak için kart paketi karıştırılır ve her bir STOK YIĞININA 30 kart yüzü aşağı bakacak şekilde dağıtılır ve her oyuncuya eli olarak 5 kart daha dağıtılır. Kartların geri kalanı BERABERLIK DESTE oluşturmak üzere oyuncular arasında yüzü aşağı bakacak şekilde yerleştirilir. Her STOK YIĞINININ en üstteki kartı yüzü yukarı bakacak şekilde çevrilir ve en üste yerleştirilir. Hangi oyuncunun kartı daha büyükse o oyuncu önce oynar. Bu aşamada ortadaki BINA YIĞINLARI ve ATTIĞI YIĞINLARI boştur (noktalı çizgilerle gösterilir), oyun yoluyla geliştirilirler"
+msgid "To begin the game the card pack is shuffled and up to 30 cards (optionally) are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES of each player are all empty (indicated by dotted lines), they are developed through play"
+msgstr "Oyuna başlamak için kart destesi karıştırılır ve isteğe bağlı olarak her bir STOK YIĞINI'na en fazla 30 kart kapalı olarak dağıtılır ve her oyuncuya eli olarak 5 kart daha dağıtılır. Kartların geri kalanı BERABERLIK DESTE oluşturmak üzere oyuncular arasında yüzü aşağı bakacak şekilde yerleştirilir. Her STOK YIĞINININ en üstteki kartı yüzü yukarı bakacak şekilde çevrilir ve en üste yerleştirilir. Hangi oyuncunun kartı daha büyükse o oyuncu önce oynar. Bu aşamada ortadaki BINA YIĞINLARI ve ATTIĞI YIĞINLARI boştur (noktalı çizgilerle gösterilir), oyun yoluyla geliştirilirler"
 
 #. TERMINOLOGY
-msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
-msgstr "Oyun sırasında dört BINA YIĞINI başlatılabilir. Sadece 1 (as) numaralı bir kart veya bir joker bir BINA YIĞINI başlatabilir. Daha sonra her bir yığın 1'den 12'ye (as - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - vale - kiz) kadar sıralanarak inşa edilir. Joker kartlar bir BINA YIĞINI başlatabilir ve başka herhangi bir rütbe olarak da oynanabilir. 12 karttan oluşan bir yığın tamamlandığında, kaldırılır ve yerine yeni bir yığın başlatılır."
+msgid "During play up the four BUILDING PILES can be started. Only an ace (1) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order (image 1). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Oyun sırasında dört BINA YIĞINI başlatılabilir. Bir BINA YIĞINI sadece bir as (1) veya bir joker ile başlatılabilir. Daha sonra BINA YIĞINLAR belirli bir sıraya göre oluşturulur (İllüstrasyon 1). Joker kartlar bir BINA YIĞINI başlatabilir ve başka herhangi bir rütbe olarak da oynanabilir. 12 karttan oluşan bir yığın tamamlandığında, kaldırılır ve yerine yeni bir yığın başlatılır."
 
 #. THE PLAY
-msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
-msgstr "STOK YIĞINININ en üstündeki oyun kartı daha yüksek rütbeye sahip olan oyuncu oyuna başlar. Bundan sonra oyun dönüşümlü olarak oynanır. Oyuncunun elinde 1 (as) numaralı kart veya joker varsa veya bu kartlardan biri en üstteki kart olarak STOK YIĞININDA bulunuyorsa, ortada bir BINA YIĞINI oluşturmaya başlayabilir"
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has an ace (1) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "STOK YIĞINININ en üstündeki oyun kartı daha yüksek rütbeye sahip olan oyuncu oyuna başlar. Bundan sonra oyun dönüşümlü olarak oynanır. Oyuncunun elinde as (1) veya joker varsa veya bu kartlardan biri en üstteki kart olarak STOK YIĞININDA bulunuyorsa, ortada bir BINA YIĞINI oluşturmaya başlayabilir"
 
-msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
-msgstr "Oyuncu B, STOK YIĞINININ 1 (as) numaralı kartını boş bir BINA YIĞINININ üzerine atarak yeni bir BINA YIĞINI başlatır"
-
-#. MORE THAN TWO PLAYERS
-msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
-msgstr "SKIP-2-GO herhangi bir sayıda oyuncu için kolayca uyarlanabilir. Oynamak için dönüş saat yönünde geçer. Oyuncu sayısına ve STOK YIĞINLARINA kaç kart dağıttığınıza bağlı olarak, daha fazla deste eklenmesi gerekebilir - örneğin bazıları oyuncu başına bir deste ile oynar."
+msgid "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
+msgstr "Oyuncu B, STOK YIĞINININDAN bir as (1) kartını boş bir BINA YIĞINININA atarak yeni bir BINA YIĞINI başlatır."

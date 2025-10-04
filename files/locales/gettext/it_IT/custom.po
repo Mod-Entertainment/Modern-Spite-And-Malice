@@ -3,35 +3,31 @@ msgid "Brief Description"
 msgstr "Gioco di solitario in cui si sfidano da 2 a 4 giocatori, nello stile di Crapette"
 
 msgid "Detailed Description"
-msgstr "Il gioco è conosciuto anche con il nome di «Spite & Malice», un derivato di «Crapette» (noto anche come «Banca Russa» o «Tunj»). La versione commerciale di questo gioco di carte è commercializzata con il nome di «Skip-Bo»."
+msgstr "Il gioco è conosciuto anche con il nome di «Banca Russa» o «Tunj», un derivato di «Crapette». La versione commerciale di questo gioco di carte è commercializzata con il nome di «Skip-Bo»."
 
 msgid "Object of the game"
-msgstr "Lo scopo di questo gioco di carte è quello di essere il primo giocatore a scartare tutte le carte da gioco dal proprio mazzo nell'ordine da 1 a 12 e vincere così la partita."
+msgstr "Lo scopo di questo gioco di carte è quello di essere il primo giocatore a scartare tutte le carte da gioco dal proprio mazzo in ordine sequenziale e vincere così la partita."
 
 #. Manual
 #. OBJECT OF THE GAME
-msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
-msgstr "1 (asso) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (fante) - 12 (donna)"
+msgid "Order of playing cards"
+msgstr "Asso (1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - fante (11) - donna (12)"
 
 #. EQUIPMENT
-msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
-msgstr "Un mazzo di carte con 144 carte numerate da 1 a 12 più 18 carte joker per un totale di 162 carte."
+msgid "Number of card packs"
+msgstr "Si gioca con diversi mazzi da 54 carte ciascuno, che vengono mescolati prima dell'inizio della partita. I due joker e i quattro re, che valgono come joker, possono essere utilizzati a piacere."
 
 #. LAYOUT
-msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
-msgstr "Per iniziare il gioco, il mazzo di carte viene mescolato e 30 carte vengono distribuite a faccia in giù in ogni MAZZO BASE, mentre altre 5 carte vengono distribuite a ciascun giocatore come mano. Le carte rimanenti vengono disposte a faccia in giù tra i giocatori per formare il MAZZO BASE. La carta più alta di ogni MAZZO BASE viene girata a faccia in su e messa in cima. Il giocatore che ha la carta più alta in mano giocherà per primo. In questa fase, i MAZZI CRESCENTI al centro e i MAZZI DI SCARTO sono tutti vuoti (indicate da linee tratteggiate), e vengono sviluppate attraverso il gioco."
+msgid "To begin the game the card pack is shuffled and up to 30 cards (optionally) are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES of each player are all empty (indicated by dotted lines), they are developed through play"
+msgstr "Per iniziare il gioco, il mazzo di carte viene mescolato e vengono distribuite fino a 30 carte (facoltativo) a faccia in giù in ogni MAZZO BASE, mentre altre 5 carte vengono distribuite a ciascun giocatore come mano. Le carte rimanenti vengono disposte a faccia in giù tra i giocatori per formare il MAZZO BASE. La carta più alta di ogni MAZZO BASE viene girata a faccia in su e messa in cima. Il giocatore che ha la carta più alta in mano giocherà per primo. In questa fase, i MAZZI CRESCENTI al centro e i MAZZI DI SCARTO sono tutti vuoti (indicate da linee tratteggiate), e vengono sviluppate attraverso il gioco."
 
 #. TERMINOLOGY
-msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
-msgstr "Durante il gioco è possibile avviare i quattro MAZZI CRESCENTI. Solo una carta con il numero 1 o un joker può iniziare un MAZZO CRESCENTO. Ciascuna pila viene poi costruita in ordine sparso, da 1 a 12 (asso - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - fante - donna). Le carte joker possono iniziare un MAZZO CRESCENTO e possono essere giocate come qualsiasi altro rango. Una volta completata un mazzo di 12 carte, questa viene rimossa e al suo posto viene iniziata un nuovo mazzo."
+msgid "During play up the four BUILDING PILES can be started. Only an ace (1) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order (image 1). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Durante il gioco è possibile avviare i quattro MAZZI CRESCENTI. Solo un asso (1) o un joker può iniziare un MAZZO CRESCENTO. Ciascuna pila viene poi costruita in sequenza ordinata (illustrazione 1). Le carte joker possono iniziare un MAZZO CRESCENTO e possono essere giocate come qualsiasi altro rango. Una volta completata un mazzo di 12 carte, questa viene rimossa e al suo posto viene iniziata un nuovo mazzo."
 
 #. THE PLAY
-msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
-msgstr "Il giocatore la cui carta da gioco più alta del MAZZO BASE ha il rango più alto inizia la partita. In seguito, il gioco si svolge alternativamente. Se il giocatore ha in mano una carta con il numero 1 (asso) o un joker, o se una di queste carte è presente nel suo MAZZO BASE come prima carta, può iniziare a creare un MAZZO CRESCENTO al centro"
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has an ace (1) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Il giocatore la cui carta da gioco più alta del MAZZO BASE ha il rango più alto inizia la partita. In seguito, il gioco si svolge alternativamente. Se il giocatore ha in mano un asso (1) o un joker, o se una di queste carte è presente nel suo MAZZO BASE come prima carta, può iniziare a creare un MAZZO CRESCENTO al centro"
 
-msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
-msgstr "Il giocatore B inizia un nuovo MAZZO CRESCENTO, scartando una carta con il numero 1 (asso) del suo MAZZO BASE su un MAZZO CRESCENTO vuoto"
-
-#. MORE THAN TWO PLAYERS
-msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
-msgstr "SKIP-2-GO può essere facilmente adattato a qualsiasi numero di giocatori. Il turno di gioco passa in senso orario. A seconda del numero di giocatori e del numero di carte distribuite nei MAZZI BASE, potrebbe essere necessario aggiungere altri mazzi: ad esempio, alcuni giocano con un mazzo per giocatore."
+msgid "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
+msgstr "Il giocatore B inizia un nuovo MAZZO CRESCENTO, scartando un asso (1) del suo MAZZO BASE su un MAZZO CRESCENTO vuoto"

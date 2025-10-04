@@ -1,37 +1,33 @@
 #. Google Play Store
 msgid "Brief Description"
-msgstr "Competitive solitaire for two to four players in the style of «Spite & Malice»"
+msgstr "Competitive solitaire for 2 to 4 players with modern decks of playing cards"
 
 msgid "Detailed Description"
-msgstr "The game is also known under the name «Spite & Malice», a derivative of «Russian Bank» (also known as «Crapette» or «Tunj»). The commercial version of this card game is marketed under the name «Skip-Bo»."
+msgstr "The game, also known as «Rencor y Malicia», «Cat and Mouse» or «Screw Your Neighbor», is a traditional card game for two to four people. It is a reworking of the late 19th century continental game «Crapette» and is a form of competitive solitaire with a number of variations that can be played with two or more regular decks of cards. It is a spin-off of «Russian Bank»."
 
 msgid "Object of the game"
-msgstr "The object of this card game is to be the first player to discard all the playing cards from his deck in the order 1 to 12 and thus win the game."
+msgstr "The object of this card game is to be the first player to discard all the playing cards from his deck in sorted order and thus win the game."
 
 #. Manual
 #. OBJECT OF THE GAME
-msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
-msgstr ""
+msgid "Order of playing cards"
+msgstr "Ace (1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack (11) - queen (12)"
 
 #. EQUIPMENT
-msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
-msgstr ""
+msgid "Number of card packs"
+msgstr "The game is played with several decks of 54 cards each, which are shuffled before the game begins. The two jokers and the four kings, which count as jokers, can be used as desired."
 
 #. LAYOUT
-msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
+msgid "To begin the game the card pack is shuffled and up to 30 cards (optionally) are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES of each player are all empty (indicated by dotted lines), they are developed through play"
 msgstr ""
 
 #. TERMINOLOGY
-msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgid "During play up the four BUILDING PILES can be started. Only an ace (1) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order (image 1). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
 msgstr ""
 
 #. THE PLAY
-msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has an ace (1) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
 msgstr ""
 
-msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
-msgstr ""
-
-#. MORE THAN TWO PLAYERS
-msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
+msgid "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
 msgstr ""

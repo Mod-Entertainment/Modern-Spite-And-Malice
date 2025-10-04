@@ -1,37 +1,33 @@
 #. Google Play Store
 msgid "Brief Description"
-msgstr "Streitpatience für 2 bis 4 Personen im Stile von «Spite & Malice»"
-
+msgstr "Streitpatience für 2 bis 4 Spieler mit modernen Spielkartensätzen"
+      
 msgid "Detailed Description"
-msgstr "Das Spiel ist auch unter dem Namen «Spite & Malice» und im deutschen Sprachraum unter dem Namen «Katz und Maus» bekannt. Es ist ein Abkömmling des beliebten Kartenspiels «Russian Bank» (auch bekannt als «Crapette» oder «Tunj»). Die kommerzielle Version dieses Kartenspiels wird unter dem Namen «Skip-Bo» vertrieben."
+msgstr "Das Kartenspiel, auch bekannt als «Katz und Maus», «Pass auf» oder «Asse raus», ist ein Abkömmling des beliebten Kartenspiels «Russian Bank» (auch bekannt als «Crapette» oder «Tunj»). Die kommerzielle Version dieses Kartenspiels wird unter dem Namen «Skip-Bo» vertrieben."
 
 msgid "Object of the game"
-msgstr "Das Ziel dieses Kartenspiels ist es, als erster Spieler alle Spielkarten seines Kartenstapels in der Reihenfolge 1 bis 12 abzulegen und damit das Spiel zu gewinnen."
+msgstr "Das Ziel dieses Kartenspiels ist es, als erster Spieler alle Spielkarten seines Kartenstapels in geordneter Reihenfolge abzulegen und infolgedessen das Spiel zu gewinnen."
 
 #. Manual
 #. OBJECT OF THE GAME
-msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
-msgstr "1 (Ass) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (Bube) - 12 (Dame)"
+msgid "Order of playing cards"
+msgstr "Ass (1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - Bube (11) - Dame (12)"
 
 #. EQUIPMENT
-msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
-msgstr "Es wird mit 144 Spielkarten (zwölf Sätze mit den Zahlen 1 bis 12) sowie 18 Joker-Karten gespielt, also mit insgesamt 162 Spielkarten."
+msgid "Number of card packs"
+msgstr "Es wird mit mehreren Kartensätzen zu je 54 Spielkarten gespielt, die vor Spielbeginn gemischt werden. Die zwei Joker und die vier Könige, die als Joker zählen, können beliebig eingesetzt werden."
 
 #. LAYOUT
-msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
-msgstr "In der Mitte der Auslage des Spiels, neben dem TALON, werden von den Spielern während des Spiels bis zu vier FOLGEN gebildet. Zusätzlich zu diesen Stapeln hat jeder Spieler seine RESERVE vor sich liegen sowie bis zu fünf HANDKARTEN und bis zu vier HILFSSTAPEL. Die FOLGEN in der Mitte und die HILFSSTAPEL der Spieler A und B werden während des Spiels gebildet (durch gestrichelte Linien angedeutet). Zu Spielbeginn befinden sich in diesem Bereich keine Karten"
+msgid "To begin the game the card pack is shuffled and up to 30 cards (optionally) are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES of each player are all empty (indicated by dotted lines), they are developed through play"
+msgstr "Zu Beginn des Spiels werden die Kartensätze gemischt und bis zu 30 Karten (optional) werden verdeckt auf jede RESERVE gelegt, weitere 5 Karten werden jedem Spieler als HANDKARTEN zugeteilt. Die restlichen Spielkarten werden verdeckt als TALON abgelegt. Die oberste Spielkarte jeder RESERVE wird aufgedeckt und oben auf den Stapel gelegt. Der Spieler mit der höheren Karte beginnt das Spiel. Zu diesem Zeitpunkt sind die vier FOLGEN in der Mitte und die vier HILFSSTAPEL eines Spielers noch leer (durch gestrichelte Linien angedeutet) und werden erst im Laufe des Spiels gebildet"
 
 #. TERMINOLOGY
-msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
-msgstr "Während des Spiels können bis zu vier FOLGEN gebildet werden. Eine FOLGE kann nur mit einer 1 (Ass) oder einem Joker begonnen werden. Jeder Stapel wird dann in der Reihenfolge 1 bis 12 (Ass - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - Bube - Dame) gebildet. Joker können sowohl zum Starten einer FOLGE als auch als jede beliebige andere Karte eingesetzt werden. Ist eine FOLGE mit allen zwölf Karten vollständig, wird sie von der Spielfläche genommen, und eine neue FOLGE an ihrer Stelle begonnen."
+msgid "During play up the four BUILDING PILES can be started. Only an ace (1) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order (image 1). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Während des Spiels können bis zu vier FOLGEN gebildet werden. Eine FOLGE kann nur mit einem Ass (1) oder einem Joker begonnen werden. Jeder Folgenstapel wird dann in geordneter Reihenfolge (Abbildung 1) gebildet. Joker können sowohl zum Starten einer FOLGE als auch als jede beliebige andere Karte eingesetzt werden. Ist eine FOLGE mit allen zwölf Karten vollständig, wird sie von der Spielfläche genommen, und eine neue FOLGE an ihrer Stelle begonnen."
 
 #. THE PLAY
-msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
-msgstr "Der Spieler, dessen oberste Spielkarte der RESERVE den höheren Wert hat, beginnt das Spiel. Danach wird abwechselnd gespielt. Hat der Spieler eine Karte mit der Zahl 1 (Ass) oder eine Joker-Karte auf der Hand, oder liegt eine dieser Karten als oberste Karte auf seiner RESERVE, kann er in der Mitte der Spielfläche mit dem Aufbau einer FOLGE beginnen"
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has an ace (1) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Der Spieler, dessen oberste Spielkarte der RESERVE den höheren Wert hat, beginnt das Spiel. Danach wird abwechselnd gespielt. Hat der Spieler ein Ass (1) oder eine Joker-Karte auf der Hand, oder liegt eine dieser Karten als oberste Karte auf seiner RESERVE, kann er in der Mitte der Spielfläche mit dem Aufbau einer FOLGE beginnen"
 
-msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
-msgstr "Spieler B beginnt eine neue FOLGE, indem er eine Spielkarte mit der Zahl 1 (Ass) von seiner RESERVE auf eine leere FOLGE in der Mitte ablegt."
-
-#. MORE THAN TWO PLAYERS
-msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
-msgstr "SKIP-2-GO kann auch von bis zu vier Spielern gespielt werden. Die Spielrichtung ist im Uhrzeigersinn. Abhängig von der Anzahl der Spieler und der Anzahl der Karten, die jeder Spieler in seine RESERVE bekommt, werden zusätzliche Kartensätze eingesetzt."
+msgid "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
+msgstr "Spieler B beginnt eine neue FOLGE, indem er ein Ass (1) von seiner RESERVE auf eine leere FOLGE in der Mitte ablegt."

@@ -1,37 +1,33 @@
 #. Google Play Store
 msgid "Brief Description"
-msgstr "Competitieve solitaire voor 2 tot 4 spelers in de stijl van «Spite & Malice»"
+msgstr "Competitieve solitaire voor 2 tot 4 spelers met moderne kaartspellen"
 
 msgid "Detailed Description"
-msgstr "Het spel is ook bekend onder de naam «Spite & Malice», een afgeleide van «Russian Bank» (ook bekend als «Crapette» of «Tunj»). De commerciële versie van dit kaartspel wordt op de markt gebracht onder de naam «Skip-Bo»."
+msgstr "Het spel is ook bekend onder de naam «Russian Bank»  of «Tunj», een afgeleide van «Crapette». De commerciële versie van dit kaartspel wordt op de markt gebracht onder de naam «Skip-Bo»."
 
 msgid "Object of the game"
-msgstr "Het doel van dit kaartspel is om als eerste speler alle speelkaarten van zijn stapel in de volgorde 1 tot 12 weg te leggen en zo het spel te winnen."
+msgstr "Het doel van dit kaartspel is om als eerste speler alle kaarten van je stapel in de juiste volgorde neer te leggen en zo het spel te winnen."
 
 #. Manual
 #. OBJECT OF THE GAME
-msgid "1 (ace) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (jack) - 12 (queen)"
-msgstr "1 (aas) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 (boer) - 12 (vrouw)"
+msgid "Order of playing cards"
+msgstr "Aas (1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - boer (11) - vrouw (12)"
 
 #. EQUIPMENT
-msgid "A card pack with 144 cards numbered 1 through 12 plus 18 joker cards for a total of 162."
-msgstr "Het wordt gespeeld met 144 speelkaarten (twaalf sets met de nummers 1 tot 12) plus 18 jokerkaarten, dus met een totaal van 162 speelkaarten."
+msgid "Number of card packs"
+msgstr "Er wordt gespeeld met meerdere kaartspellen van elk 54 speelkaarten, die voor aanvang van het spel worden geschud. De twee jokers en de vier koningen, die als jokers tellen, kunnen naar believen worden ingezet."
 
 #. LAYOUT
-msgid "To begin the game the card pack is shuffled and 30 cards are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES are all empty (indicated by dotted lines), they are developed through play"
-msgstr "In het midden van het spel, naast de TREKSTAPEL, worden maximaal vier BOUWSTAPELS gevormd door de spelers tijdens het spel. Naast deze stapels heeft elke speler zijn STOK voor zich liggen, evenals maximaal vijf HANDKAARTEN en maximaal vier WEGGOOISTAPELS. De BOUWSTAPELS in het midden en de WEGGOOISTAPELS van spelers A en B worden gevormd tijdens het spel (aangegeven door stippellijnen). Aan het begin van het spel liggen er geen kaarten in dit gebied."
+msgid "To begin the game the card pack is shuffled and up to 30 cards (optionally) are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES of each player are all empty (indicated by dotted lines), they are developed through play"
+msgid "Om het spel te beginnen wordt het kaartspel geschud en worden er (optioneel) maximaal 30 kaarten met de beeldzijde naar beneden op elke STOK gelegd, en worden er nog eens 5 kaarten aan elke speler uitgedeeld als hun hand. De rest van de kaarten wordt met de beeldzijde naar beneden tussen de spelers gelegd om de TREKSTAPEL te vormen. De bovenste kaart van elke STOK wordt open gedraaid en bovenop gelegd. De speler met de hoogste kaart speelt als eerste. In dit stadium zijn de BOUWSTAPELS in het midden en de WEGGOOISTAPELS van elke speler allemaal leeg (aangegeven door stippellijnen), deze worden tijdens het spel gevuld."
 
 #. TERMINOLOGY
-msgid "During play up the four BUILDING PILES can be started. Only a card with the number 1 (ace) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order, 1 to 12 (ace - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - jack - queen). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
-msgstr "Tijdens het spel kunnen er maximaal vier BOUWSTAPELS worden gevormd. Een BOUWSTAPEL kan alleen worden gestart met een 1 (aas) of een Joker. Elke stapel wordt dan gevormd in de volgorde 1 tot 12 (aas - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - boer - vrouw). Jokers kunnen zowel worden gebruikt om een BOUWSTAPEL te beginnen als elke andere kaart. Wanneer een BOUWSTAPEL compleet is met alle twaalf kaarten, wordt deze uit het speelveld verwijderd en wordt er een nieuwe BOUWSTAPEL voor in de plaats gestart."
+msgid "During play up the four BUILDING PILES can be started. Only an ace (1) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order (image 1). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
+msgstr "Tijdens het spel kunnen er maximaal vier BOUWSTAPELS worden gevormd. Een BOUWSTAPEL kan alleen worden gestart met een aas (1) of een joker. Elke stapel wordt vervolgens in gesorteerde volgorde opgebouwd (figuur 1). Jokers kunnen zowel worden gebruikt om een BOUWSTAPEL te beginnen als elke andere kaart. Wanneer een BOUWSTAPEL compleet is met alle twaalf kaarten, wordt deze uit het speelveld verwijderd en wordt er een nieuwe BOUWSTAPEL voor in de plaats gestart."
 
 #. THE PLAY
-msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has card with the number 1 (ace) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
-msgstr "De speler wiens bovenste speelkaart van de STOK de hoogste waarde heeft, begint het spel. Daarna wordt het spel om beurten gespeeld. Als de speler een kaart met het cijfer 1 (aas) of een jokerkaart in zijn hand heeft, of als een van deze kaarten de bovenste kaart van zijn STOK is, kan hij beginnen met het bouwen van een BOUWSTAPEL in het midden van het speelveld"
+msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has an ace (1) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "De speler wiens bovenste speelkaart van de STOK de hoogste waarde heeft, begint het spel. Daarna wordt het spel om beurten gespeeld. Als de speler een aas (1) of een jokerkaart in zijn hand heeft, of als een van deze kaarten de bovenste kaart van zijn STOK is, kan hij beginnen met het bouwen van een BOUWSTAPEL in het midden van het speelveld"
 
-msgid "Player B starts a new BUILDING PILE, by discarding a card with the number 1 (ace) of his STOCK PILE onto an empty BUILDING PILE"
-msgstr "Speler B begint een nieuwe BOUWSTAPEL door een speelkaart met het nummer 1 (aas) uit zijn STOK op een lege BOUWSTAPEL in het midden te leggen."
-
-#. MORE THAN TWO PLAYERS
-msgid "SKIP-2-GO can easily be adapted for any number of players. Turn to play passes clockwise. Depending on the number of players and how many cards you deal to the STOCK PILES, more decks may need to be added - for example some play with one deck per player."
-msgstr "SKIP-2-GO kan ook door maximaal vier spelers worden gespeeld. De speelrichting is met de klok mee. Afhankelijk van het aantal spelers en het aantal kaarten dat elke speler in zijn STOK krijgt, worden er extra pakjes kaarten gebruikt."
+msgid "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
+msgstr "Speler B begint een nieuwe BOUWSTAPEL door een aas (1) uit zijn STOK op een lege BOUWSTAPEL in het midden te leggen."
