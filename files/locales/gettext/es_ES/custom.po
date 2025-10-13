@@ -6,7 +6,7 @@ msgid "Detailed Description"
 msgstr "«Modern Spite & Malice» es un juego de naipes para 2 a 4 personas, que también se conoce con el nombre de «Rencor y Malicia». Es una reelaboración del juego europeo continental de finales del siglo XIX «Crapette» y es una forma de solitario competitivo, con una serie de variaciones que se pueden jugar con dos o más barajas de naipes regulares. Es descendiente de «Russian Bank». La versión comercial de este juego de naipes se vende con el nombre de «Skip-Bo»."
 
 msgid "Object of the game"
-msgstr "El objetivo de este juego de cartas es ser el primer jugador en descartar todos los naipes de su pila de inicio de manera ordenada y así ganar el juego."
+msgstr "El objetivo de este juego es ser el primer jugador en descartar todos los naipes de su pila de inicio de manera ordenada y así ganar el juego."
 
 #. Manual
 #. OBJECT OF THE GAME
@@ -15,19 +15,15 @@ msgstr "As (1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - sota (11) - dama (12)"
 
 #. EQUIPMENT
 msgid "Number of card packs"
-msgstr "Se juega con varios mazos de 54 naipes cada uno, que se barajan antes de comenzar la partida. Los dos comodines y los cuatro reyes, que cuentan como comodines, se pueden utilizar como se desee."
-
-#. LAYOUT
-msgid "To begin the game the card pack is shuffled and up to 30 cards (optionally) are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES of each player are all empty (indicated by dotted lines), they are developed through play"
-msgstr "Para comenzar el juego, se baraja el juego de naipes y se reparten hasta 30 naipes (opcionalmente) boca abajo en cada PILA DE INICIO, y se reparten otros cinco naipes a cada jugador como mano. El resto de los naipes se colocan boca abajo entre los jugadores para formar el PILA DE ROBAR. El naipe superior de cada PILA DE INICIO se pone boca arriba y se coloca en la parte superior. El jugador que tenga el naipe más alto visible jugará primero. En esta fase, las PILAS DE CRECIMIENTO del centro y las PILAS DE DESCARTE de cada jugador están vacías (indicadas con líneas punteadas) y se van completando a medida que se desarrolla el juego."
+msgstr "Se juega con varios mazos de 54 naipes cada uno, que se barajan antes de comenzar la partida. Cado mazo contiene dos comodines y cuatro reyes, que cuentan como comodines. Los seis comodines de cado mazo se pueden utilizar como se desee."
 
 #. TERMINOLOGY
-msgid "During play up the four BUILDING PILES can be started. Only an ace (1) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order (image 1). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
-msgstr "Se pueden formar hasta cuatro PILAS EN CRECIMIENTO durante el juego. Una PILA EN CRECIMIENTO solo se puede comenzar con un as (1) o un comodín. Cada pila se forma en el orden que se muestra en la imagen 1. Los comodines se pueden usar para iniciar una PILA EN CRECIMIENTO o como cualquier otro naipe. Cuando se completa una PILA EN CRECIMIENTO con los doce naipes, se elimina del área de juego y comienza una nueva PILA EN CRECIMIENTO en su lugar."
+msgid "Only an ace or a joker can start a BUILDING PILE. Each pile is then built up in sorted order" 
+msgstr "Una PILA EN CRECIMIENTO solo se puede comenzar con un as (1) o un comodín. A continuación, cada pila se construye en orden clasificado"
 
 #. THE PLAY
-msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has an ace (1) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
-msgstr "El jugador cuyo naipe superior de la PILA DE INICIO tiene el valor más alto comienza el juego. Luego se juega alternativamente. Si el jugador tiene un as o un comodín en la mano, o si un de estos naipes es el naipe superior en su PILA DE INICIO, puede comenzar a construir una PILA EN CRECIMIENTO en el centro del área de juego"
+msgid "If the player has an ace or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Si el jugador tiene un as (1) o un comodín en la mano, o si un de estos naipes es el naipe superior en su PILA DE INICIO, puede comenzar a construir una PILA EN CRECIMIENTO en el centro del área de juego"
 
-msgid "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
+msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "El jugador B comienza una nueva PILA EN CRECIMIENTO colocando un as (1) de su PILA DE INICIO en una PILA EN CRECIMIENTO vacío en el centro."

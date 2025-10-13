@@ -6,7 +6,7 @@ msgid "Detailed Description"
 msgstr "Gra, znana również pod nazwą «Russian Bank» lub «Tunj», jest pochodną gry karcianej «Crapette». Komercyjna wersja tej gry karcianej jest sprzedawana pod nazwą «Skip-Bo»."
 
 msgid "Object of the game"
-msgstr "Celem tej gry karcianej jest jako pierwszy gracz złożyć wszystkie karty ze swojego stosu w odpowiedniej kolejności i tym samym wygrać grę."
+msgstr "Celem tej gry jest jako pierwszy gracz złożyć wszystkie karty ze swojego stosu w odpowiedniej kolejności i tym samym wygrać grę."
 
 #. Manual
 #. OBJECT OF THE GAME
@@ -15,19 +15,15 @@ msgstr "As (1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - walet (11) - dama (12)"
 
 #. EQUIPMENT
 msgid "Number of card packs"
-msgstr "Gra się kilkoma taliami po 54 karty, które przed rozpoczęciem gry są tasowane. Dwa jokery i cztery króle, które liczą się jako jokery, mogą być wykorzystywane dowolnie."
-
-#. LAYOUT
-msgid "To begin the game the card pack is shuffled and up to 30 cards (optionally) are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES of each player are all empty (indicated by dotted lines), they are developed through play"
-msgstr "Aby rozpocząć grę, talię kart należy przetasować i rozdać do 30 kart (opcjonalnie) zakrytych na każdy STOS ZAPASÓW, a kolejne 5 kart jest rozdawane każdemu graczowi jako jego ręka. Pozostałe karty są umieszczane zakryte między graczami, tworząc SKLEP. Górna karta z każdego STOSU ZAPASÓW jest odwracana awersem do góry i umieszczana na wierzchu. Gracz, który ma wyższą kartę, zagra jako pierwszy. Na tym etapie WIERSZE w centrum i STOSY DO ROZŁADOWANIA są puste (oznaczone przerywanymi liniami), są one rozwijane podczas gry"
+msgstr "Gra się kilkoma taliami po 54 karty, które przed rozpoczęciem gry są tasowane. Każda talia zawiera dwa jokery i cztery króle, które pełnią rolę jokerów. Sześć jokerów z każdej talii można więc wykorzystać dowolnie."
 
 #. TERMINOLOGY
-msgid "During play up the four BUILDING PILES can be started. Only an ace (1) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order (image 1). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
-msgstr "Podczas gry można rozpocząć maksymalnie cztery WIERSZE. Tylko as (1) lub joker może rozpocząć WIERSZ. Każdy stos jest następnie układany w uporządkowanej kolejności (obraz 1). Dzikie karty mogą rozpoczynać WIERSZ i mogą być również zagrywane jako karty dowolnej innej rangi. Po skompletowaniu stosu 12 kart jest on usuwany, a w jego miejsce budowany jest nowy stos."
+msgid "Only an ace or a joker can start a BUILDING PILE. Each pile is then built up in sorted order"
+msgstr "Tylko as (1) lub joker może rozpocząć WIERSZ. Każdy stos jest następnie układany w uporządkowanej kolejności"
 
 #. THE PLAY
-msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has an ace (1) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
-msgstr "Gracz, którego najwyższa karta z STOSU ZAPASÓW ma wyższą rangę, rozpoczyna grę. Następnie gra toczy się naprzemiennie. Jeśli gracz ma asa (1) lub jokera lub jeśli jedna z tych kart znajduje się na jego STOSIE ZAPASÓW jako najwyższa karta, może rozpocząć układanie WIERSZA na środku."
+msgid "If the player has an ace or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Jeśli gracz ma asa (1) lub jokera lub jeśli jedna z tych kart znajduje się na jego STOSIE ZAPASÓW jako najwyższa karta, może rozpocząć układanie WIERSZA na środku."
 
-msgid "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
+msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Gracz B rozpoczyna nowy WIERSZ, odrzucając asa (1) ze swojego STOSU ZAPASÓW na pusty WIERSZ"

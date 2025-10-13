@@ -1,4 +1,3 @@
-
 #. Google Play Store
 msgid "Brief Description"
 msgstr "«Crapette» tarzında iki ila dört oyuncu için rekabetçi solitaire oyunu"
@@ -16,19 +15,15 @@ msgstr "As (1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - vale (11) - kiz (12)"
 
 #. EQUIPMENT
 msgid "Number of card packs"
-msgstr "Oyun, oyun başlamadan önce karıştırılan 54 kartlık birkaç deste ile oynanır. İki joker ve joker olarak sayılan dört papaz, istenildiği gibi kullanılabilir."
-
-#. LAYOUT
-msgid "To begin the game the card pack is shuffled and up to 30 cards (optionally) are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES of each player are all empty (indicated by dotted lines), they are developed through play"
-msgstr "Oyuna başlamak için kart destesi karıştırılır ve isteğe bağlı olarak her bir STOK YIĞINI'na en fazla 30 kart kapalı olarak dağıtılır ve her oyuncuya eli olarak 5 kart daha dağıtılır. Kartların geri kalanı BERABERLIK DESTE oluşturmak üzere oyuncular arasında yüzü aşağı bakacak şekilde yerleştirilir. Her STOK YIĞINININ en üstteki kartı yüzü yukarı bakacak şekilde çevrilir ve en üste yerleştirilir. Hangi oyuncunun kartı daha büyükse o oyuncu önce oynar. Bu aşamada ortadaki BINA YIĞINLARI ve ATTIĞI YIĞINLARI boştur (noktalı çizgilerle gösterilir), oyun yoluyla geliştirilirler"
+msgstr "Oyun, oyun başlamadan önce karıştırılan 54 kartlık birkaç deste ile oynanır. Her deste iki joker ve dört papaz içerir ve bunlar joker olarak sayılır. Böylece her destede bulunan altı joker, istenildiği gibi kullanılabilir."
 
 #. TERMINOLOGY
-msgid "During play up the four BUILDING PILES can be started. Only an ace (1) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order (image 1). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
-msgstr "Oyun sırasında dört BINA YIĞINI başlatılabilir. Bir BINA YIĞINI sadece bir as (1) veya bir joker ile başlatılabilir. Daha sonra BINA YIĞINLAR belirli bir sıraya göre oluşturulur (İllüstrasyon 1). Joker kartlar bir BINA YIĞINI başlatabilir ve başka herhangi bir rütbe olarak da oynanabilir. 12 karttan oluşan bir yığın tamamlandığında, kaldırılır ve yerine yeni bir yığın başlatılır."
+msgid "Only an ace or a joker can start a BUILDING PILE. Each pile is then built up in sorted order"
+msgstr "Bir BINA YIĞINI sadece bir as (1) veya bir joker ile başlatılabilir. Daha sonra BINA YIĞINLAR belirli bir sıraya göre oluşturulur"
 
 #. THE PLAY
-msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has an ace (1) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
-msgstr "STOK YIĞINININ en üstündeki oyun kartı daha yüksek rütbeye sahip olan oyuncu oyuna başlar. Bundan sonra oyun dönüşümlü olarak oynanır. Oyuncunun elinde as (1) veya joker varsa veya bu kartlardan biri en üstteki kart olarak STOK YIĞININDA bulunuyorsa, ortada bir BINA YIĞINI oluşturmaya başlayabilir"
+msgid "If the player has an ace or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Oyuncunun elinde as (1) veya joker varsa veya bu kartlardan biri en üstteki kart olarak STOK YIĞININDA bulunuyorsa, ortada bir BINA YIĞINI oluşturmaya başlayabilir"
 
-msgid "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
+msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Oyuncu B, STOK YIĞINININDAN bir as (1) kartını boş bir BINA YIĞINININA atarak yeni bir BINA YIĞINI başlatır."

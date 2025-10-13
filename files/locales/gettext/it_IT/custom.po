@@ -6,7 +6,7 @@ msgid "Detailed Description"
 msgstr "Il gioco è conosciuto anche con il nome di «Banca Russa» o «Tunj», un derivato di «Crapette». La versione commerciale di questo gioco di carte è commercializzata con il nome di «Skip-Bo»."
 
 msgid "Object of the game"
-msgstr "Lo scopo di questo gioco di carte è quello di essere il primo giocatore a scartare tutte le carte da gioco dal proprio mazzo in ordine sequenziale e vincere così la partita."
+msgstr "Lo scopo di questo gioco è quello di essere il primo giocatore a scartare tutte le carte da gioco dal proprio mazzo in ordine sequenziale e vincere così la partita."
 
 #. Manual
 #. OBJECT OF THE GAME
@@ -15,19 +15,15 @@ msgstr "Asso (1) - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - fante (11) - donna (12)"
 
 #. EQUIPMENT
 msgid "Number of card packs"
-msgstr "Si gioca con diversi mazzi da 54 carte ciascuno, che vengono mescolati prima dell'inizio della partita. I due joker e i quattro re, che valgono come joker, possono essere utilizzati a piacere."
-
-#. LAYOUT
-msgid "To begin the game the card pack is shuffled and up to 30 cards (optionally) are dealt face down to each STOCK PILE, and a further 5 cards are dealt to each player as their hand. The remainder of the cards are placed face down between the players to form the DRAW PILE. The top card of each STOCK PILE is turned face up and placed on top. Whichever player has the higher card showing will play first. At this stage the BUILDING PILES in the center and DISCARD PILES of each player are all empty (indicated by dotted lines), they are developed through play"
-msgstr "Per iniziare il gioco, il mazzo di carte viene mescolato e vengono distribuite fino a 30 carte (facoltativo) a faccia in giù in ogni MAZZO BASE, mentre altre 5 carte vengono distribuite a ciascun giocatore come mano. Le carte rimanenti vengono disposte a faccia in giù tra i giocatori per formare il MAZZO BASE. La carta più alta di ogni MAZZO BASE viene girata a faccia in su e messa in cima. Il giocatore che ha la carta più alta in mano giocherà per primo. In questa fase, i MAZZI CRESCENTI al centro e i MAZZI DI SCARTO sono tutti vuoti (indicate da linee tratteggiate), e vengono sviluppate attraverso il gioco."
+msgstr "Si gioca con diversi mazzi da 54 carte ciascuno, che vengono mescolati prima dell'inizio della partita. Ogni mazzo contiene due joker e quattro re che fungono da joker. I sei joker di ogni mazzo possono quindi essere utilizzati a piacere."
 
 #. TERMINOLOGY
-msgid "During play up the four BUILDING PILES can be started. Only an ace (1) or a joker can start a BUILDING PILE. Each pile is then built up in sorted order (image 1). Wild cards can start a BUILDING PILE, and can be played as any other rank, too. Once a pile of 12 cards has been completed, it is removed, and a new pile is started in its place."
-msgstr "Durante il gioco è possibile avviare i quattro MAZZI CRESCENTI. Solo un asso (1) o un joker può iniziare un MAZZO CRESCENTO. Ciascuna pila viene poi costruita in sequenza ordinata (illustrazione 1). Le carte joker possono iniziare un MAZZO CRESCENTO e possono essere giocate come qualsiasi altro rango. Una volta completata un mazzo di 12 carte, questa viene rimossa e al suo posto viene iniziata un nuovo mazzo."
+msgid "Only an ace or a joker can start a BUILDING PILE. Each pile is then built up in sorted order"
+msgstr "Solo un asso (1) o un joker può iniziare un MAZZO CRESCENTO. Ciascuna pila viene poi costruita in sequenza ordinata"
 
 #. THE PLAY
-msgid "The player whose topmost playing card of the STOCK PILE has the higher rank starts the game. After that, the game is played alternately. If the player has an ace (1) or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
-msgstr "Il giocatore la cui carta da gioco più alta del MAZZO BASE ha il rango più alto inizia la partita. In seguito, il gioco si svolge alternativamente. Se il giocatore ha in mano un asso (1) o un joker, o se una di queste carte è presente nel suo MAZZO BASE come prima carta, può iniziare a creare un MAZZO CRESCENTO al centro"
+msgid "If the player has an ace or a joker in his hand, or if one of these cards is on his STOCK PILE as the topmost card, he can start establish a BUILDING PILE in the center"
+msgstr "Se il giocatore ha in mano un asso (1) o un joker, o se una di queste carte è presente nel suo MAZZO BASE come prima carta, può iniziare a creare un MAZZO CRESCENTO al centro"
 
-msgid "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
-msgstr "Il giocatore B inizia un nuovo MAZZO CRESCENTO, scartando un asso (1) del suo MAZZO BASE su un MAZZO CRESCENTO vuoto"
+msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
+msgstr "Il giocatore B inizia un nuovo MAZZO CRESCENTO, scartando un asso (1) del suo MAZZO BASE su un MAZZO CRESCENTO vuoto."
