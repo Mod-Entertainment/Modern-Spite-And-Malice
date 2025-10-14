@@ -27,3 +27,6 @@ msgstr "Se o jogador tiver um ás (1) ou um jóquer na mão, ou se uma destas ca
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "O jogador B inicia uma nova PILHA DE BASE, descartando um ás (1) da sua PILHA DE RESERVA para uma PILHA DE BASE vazia."
+
+msgid "Placing a joker on top of another joker"
+msgstr "Por padrão, é permitido colocar um jóquer sobre um jóquer que já esteja numa PILHA DE BASE."

@@ -27,3 +27,6 @@ msgstr "If the player has an ace (1) or a joker in his hand, or if one of these 
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Player B starts a new BUILDING PILE, by discarding an ace (1) of his STOCK PILE onto an empty BUILDING PILE."
+
+msgid "Placing a joker on top of another joker"
+msgstr "By default, it is permitted to place a joker on top of a joker that is already on a BUILDING PILE."

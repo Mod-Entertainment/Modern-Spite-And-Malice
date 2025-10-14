@@ -27,3 +27,6 @@ msgid "Om spelaren har ett ess (1) eller ett Joker-kort på sin hand, eller om e
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Spelare B startar en ny BYGGHÖG genom att placera ett ess (1) från sin GRUNDHÖG på en tom BYGGHÖG i mitten."
+
+msgid "Placing a joker on top of another joker"
+msgstr "Som standard är det tillåtet att lägga en joker på en joker som redan ligger i en BYGGHÖG."

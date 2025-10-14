@@ -27,3 +27,6 @@ msgstr "Si le joueur a un as (1) ou un joker dans sa main, ou si l'une de ces ca
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Le joueur B commence une nouvelle PILE DE SÉQUENCE, en défaussant un as (1) de sa PILE D’ACCUMULATION sur une PILE DE SÉQUENCE vide."
+
+msgid "Placing a joker on top of another joker"
+msgstr "Par défaut, il est permis de placer un joker sur un joker qui se trouve déjà sur une PILE DE SÉQUENCE."

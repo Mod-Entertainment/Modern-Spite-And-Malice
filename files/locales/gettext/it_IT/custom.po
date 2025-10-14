@@ -27,3 +27,6 @@ msgstr "Se il giocatore ha in mano un asso (1) o un joker, o se una di queste ca
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Il giocatore B inizia un nuovo MAZZO CRESCENTO, scartando un asso (1) del suo MAZZO BASE su un MAZZO CRESCENTO vuoto."
+
+msgid "Placing a joker on top of another joker"
+msgstr "Per impostazione predefinita, è consentito posizionare un joker su un joker che si trova già su un MAZZO CRESCENTO."

@@ -27,3 +27,6 @@ msgstr "Jeśli gracz ma asa (1) lub jokera lub jeśli jedna z tych kart znajduje
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Gracz B rozpoczyna nowy WIERSZ, odrzucając asa (1) ze swojego STOSU ZAPASÓW na pusty WIERSZ"
+
+msgid "Placing a joker on top of another joker"
+msgstr "Standardowo dozwolone jest umieszczenie jokera na jokerze, który już znajduje się w WIERSZU."

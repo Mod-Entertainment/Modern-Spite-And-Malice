@@ -27,3 +27,6 @@ msgstr "Hat der Spieler ein Ass (1) oder eine Joker-Karte auf der Hand, oder lie
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Spieler B beginnt eine neue FOLGE, indem er ein Ass (1) von seiner RESERVE auf eine leere FOLGE in der Mitte ablegt."
+
+msgid "Placing a joker on top of another joker"
+msgstr "Standardmäßig ist es erlaubt, einen Joker auf einen Joker zu legen, der bereits auf einer FOLGE liegt."

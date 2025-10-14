@@ -27,3 +27,6 @@ msgstr "Si el jugador tiene un as (1) o un comodín en la mano, o si un de estos
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "El jugador B comienza una nueva PILA EN CRECIMIENTO colocando un as (1) de su PILA DE INICIO en una PILA EN CRECIMIENTO vacío en el centro."
+
+msgid "Placing a joker on top of another joker"
+msgstr "Por defecto, se permite colocar un comodín encima de otro comodín que ya se encuentre en la PILA EN CRECIMIENTO."

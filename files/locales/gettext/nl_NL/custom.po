@@ -27,3 +27,6 @@ msgstr "Als de speler een aas (1) of een jokerkaart in zijn hand heeft, of als e
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Speler B begint een nieuwe BOUWSTAPEL door een aas (1) uit zijn STOK op een lege BOUWSTAPEL in het midden te leggen."
+
+msgid "Placing a joker on top of another joker"
+msgstr "Standaard is het toegestaan om een joker op een joker te leggen die al op een BOUWSTAPEL ligt."

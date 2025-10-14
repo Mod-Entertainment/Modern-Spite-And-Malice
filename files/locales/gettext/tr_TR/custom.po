@@ -27,3 +27,6 @@ msgstr "Oyuncunun elinde as (1) veya joker varsa veya bu kartlardan biri en üst
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Oyuncu B, STOK YIĞINININDAN bir as (1) kartını boş bir BINA YIĞINININA atarak yeni bir BINA YIĞINI başlatır."
+
+msgid "Placing a joker on top of another joker"
+msgstr "Varsayılan olarak, zaten bir BINA YIĞIN üzerinde bulunan bir jokere başka bir joker koymak mümkündür."

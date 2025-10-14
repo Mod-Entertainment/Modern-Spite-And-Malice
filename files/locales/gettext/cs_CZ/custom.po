@@ -27,3 +27,6 @@ msgstr "Pokud má hráč v ruce eso (1) nebo žolíka, nebo pokud se jedna z tě
 
 msgid "Player B starts a new BUILDING PILE, by discarding an ace of his STOCK PILE onto an empty BUILDING PILE."
 msgstr "Hráč B založí novou HROMÁDKU BUDOV tak, odhozením esa (1) ze své POMOCNÉ HROMÁDKY na prázdnou HROMÁDKU BUDOV."
+
+msgid "Placing a joker on top of another joker"
+msgstr "Standardně je povoleno položit žolíka na žolíka, který se již nachází na HROMÁDCE BUDOV."
