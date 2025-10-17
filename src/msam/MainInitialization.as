@@ -16,6 +16,7 @@ package msam
 	import ms.controller.cards.SkipBoCardController;
 	import ms.ui.components.options.SkipBoOptionsComponent;
 	import ms.ui.components.options.symbols.SkipBoOptionsGroup;
+	import ms.ui.components.options.symbols.SkipBoOptionSymbol;
 	import ms.ui.manuals.Skip2GoManual;
 
 	CONFIG::freeEdition
@@ -201,6 +202,7 @@ package msam
 
 			// Spieloptionen und deren Visualisierung initialiseren
 			SkipBoOptions.initialize();
+			SkipBoOptionSymbol.labelingStyle = SkipBoOptionSymbol.LETTERS_STYLE;
 			GameOptionsGroup.classType = SkipBoOptionsGroup;
 			GameOptionsComponent.offlineClassType = SkipBoOptionsComponent;
 
