@@ -33,6 +33,7 @@ s|HSlider {
 s|RadioButton {
 	color: #000000;
 	selectColor: #629cdb; 
+	font-weight: normal;
 }
 
 /* TextArea (mehrzeiliges Textfeld) */
